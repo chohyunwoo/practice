@@ -19,7 +19,6 @@ public class MovieReview {
 //    }
 
     public  void print() {
-
         System.out.println("영화제목: " + title + " 리뷰: " + review);
     }
 }
