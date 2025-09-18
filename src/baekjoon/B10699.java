@@ -3,7 +3,7 @@ package baekjoon;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class Time10699 {
+public class B10699 {
     public static void main(String[] args) {
 
         //현재 날짜 객체 생성
